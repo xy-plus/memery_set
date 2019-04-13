@@ -1,3 +1,5 @@
+#![no_std]
+
 pub mod area;
 pub mod handler;
 pub mod attr;
